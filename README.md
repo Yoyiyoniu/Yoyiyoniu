@@ -5,13 +5,13 @@
 
 <h2>My Skills 💻</h2>
 
-![My Skills](https://skillicons.dev/icons?i=java,dart,python)
+![My Skills](https://skillicons.dev/icons?i=dart,ts,python,css,tailwind)
 
 
 # Technologies used ♟
 <p>
 
-  ![My Skills](https://skillicons.dev/icons?i=flutter,nodejs,git,github,linux)
+  ![My Skills](https://skillicons.dev/icons?i=flutter,react,remix,express,nodejs,bun,tailwind,git,github,linux)
 </p>
 
 
