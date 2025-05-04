@@ -10,7 +10,7 @@
 
 # Technologies used ♟
 <p>
-  ![My Skills](https://skillicons.dev/icons?i=nextjs,react,remix,nodejs,express,bun,elysia,git,github,linux)
+  <img src="https://skillicons.dev/icons?i=react,nextjs,remix,express,elysia,nodejs,bun,git,github,linux" alt="" />
 </p>
 
 
