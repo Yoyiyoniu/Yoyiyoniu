@@ -5,13 +5,12 @@
 
 <h2>My Skills 💻</h2>
 
-![My Skills](https://skillicons.dev/icons?i=dart,ts,python,css,tailwind)
+![My Skills](https://skillicons.dev/icons?i=ts,java,python,css,tailwind)
 
 
 # Technologies used ♟
 <p>
-
-  ![My Skills](https://skillicons.dev/icons?i=flutter,react,remix,express,nodejs,bun,tailwind,git,github,linux)
+  ![My Skills](https://skillicons.dev/icons?i=nextjs,react,remix,nodejs,express,bun,elysia,git,github,linux)
 </p>
 
 
@@ -19,7 +18,7 @@
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Yoyiyoniu&theme=transparent&border_radius=5.7&mode=weekly&card_width=200" alt="GitHub Streak" /></a>
 <img
 src="https://github-readme-stats.vercel.app/api/top-langs?username=Yoyiyoniu&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact" 
-alt="adam-pw" 
+alt="adam-pw"
 bg_color=#808080/> 
 
 
